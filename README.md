@@ -1,4 +1,4 @@
-# Three-phase two_level_inverter (Sace Vector Modulation)
+# Three-phase two-level inverter (Space Vector Modulation)
 
 
 <img style="width:50%" src="https://github.com/ShahinSabour/two_level_inverter/blob/main/images/circuit2.png">
